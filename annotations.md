@@ -31,3 +31,7 @@
 - É para transformar um número indeterminado de parâmetros em um array. E ele apenas funciona dentro de uma função, sendo ele um dos argumentos da função.
 
 `The rest of the parameters can be included in the function definition by using three dots ... followed by the name of the array that will contain them. The dots literally mean “gather the remaining parameters into an array”.`
+
+## reduce()
+
+- O que reduce() faz: como map(), reduce() percorre o array da esquerda para a direita invocando uma função de retorno em cada elemento. O valor retornado é o valor acumulado passado de callback para callback. Depois de todos os elementos terem sido avaliados, reduce() retorna o valor acumulado/concatenado.
