@@ -22,7 +22,7 @@ Este repositório serve para as atividades realizadas do curso de [React.js](htt
 - [x] Variável em strings
 - [x] Desconstrução
 - [x] Spread
-- [ ] Rest
+- [x] Rest
 - [ ] Array
 - [ ] Funções Anônimas
 
