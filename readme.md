@@ -2,20 +2,23 @@
 
 Este repositório serve para as atividades realizadas do curso de [React.js](https://www.udemy.com/course/curso-reactjs/) do Matheus Fraga.
 
-### Primeiros Passos
+## JavaScript
+
+### Primeiros passos
+
 - [x] Var
 - [x] Comentários
 - [x] Entrada/Saída
 - [x] Refresh/Redirect
 - [x] Modificando HTML
 - [x] Arrays
-- [ ] Loops
-- [ ] Switch
+- [x] Loops x Switch
 
 ### ES6+
+
 - [ ] Temporização
 - [ ] Webstorage
-- [ ] Diferença de variaveis 
+- [ ] Diferença de variaveis
 - [ ] Variavel em strings
 - [ ] Desconstrução
 - [ ] Spread
@@ -23,5 +26,8 @@ Este repositório serve para as atividades realizadas do curso de [React.js](htt
 - [ ] Array
 - [ ] Funções Anônimas
 
-### React
+## React
 
+### Mão na massa
+
+- [ ] 
