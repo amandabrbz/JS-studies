@@ -19,3 +19,9 @@
 
 - Objeto dado por  **{}**;
 - Array dado por **[]**;
+
+## Spread operator
+
+- É injentar novos argumentos em objetos ou arrays. 
+
+`A sintaxe de propagação (Spread) permite que um objeto iterável, como um array ou string, seja expandida em locais onde zero ou mais argumentos (para chamadas de função) ou elementos (para literais de array) sejam esperados ou uma expressão de objeto seja expandida em locais onde zero ou mais pares de chave-valor (para literais de objeto) são esperados.`
