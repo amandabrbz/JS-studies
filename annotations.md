@@ -10,3 +10,8 @@
 
 - localStorage: Fica gravado no navegador, tipo um cookie;
 - sessionStorage: Fica gravado apenas naquela sessão de navegação;
+
+### Nova forma de concatenar no ES6:
+
+*Exemplo*:  let pessoa = `meu nome é ${nome} ${sobrenome} e tenho ${idade}`;
+

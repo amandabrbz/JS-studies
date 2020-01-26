@@ -19,7 +19,7 @@ Este repositório serve para as atividades realizadas do curso de [React.js](htt
 - [x] Temporização
 - [x] Webstorage
 - [x] Diferença de variáveis
-- [ ] Variável em strings
+- [x] Variável em strings
 - [ ] Desconstrução
 - [ ] Spread
 - [ ] Rest
