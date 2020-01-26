@@ -24,7 +24,7 @@ Este repositório serve para as atividades realizadas do curso de [React.js](htt
 - [x] Spread
 - [x] Rest
 - [x] Array
-- [ ] Funções Anônimas
+- [x] Funções Anônimas
 
 ## React
 
