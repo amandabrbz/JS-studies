@@ -20,8 +20,6 @@ sessionStorage.removeItem("nome"); //remover
 sessionStorage.nome = "Amanda";
 */
 
-
-
 var nome = '';
 
 if(typeof localStorage.nome == 'undefined') {
