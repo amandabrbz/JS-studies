@@ -20,7 +20,7 @@ Este repositório serve para as atividades realizadas do curso de [React.js](htt
 - [x] Webstorage
 - [x] Diferença de variáveis
 - [x] Variável em strings
-- [ ] Desconstrução
+- [x] Desconstrução
 - [ ] Spread
 - [ ] Rest
 - [ ] Array

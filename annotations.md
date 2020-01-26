@@ -15,3 +15,7 @@
 
 *Exemplo*:  let pessoa = `meu nome é ${nome} ${sobrenome} e tenho ${idade}`;
 
+### Objeto x Array
+
+- Objeto dado por  **{}**;
+- Array dado por **[]**;
