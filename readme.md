@@ -30,4 +30,16 @@ Este repositório serve para as atividades realizadas do curso de [React.js](htt
 
 ### Mão na massa
 
-- [ ] 
+- [ ] O que é react
+- [ ] Instalação
+- [ ] Primeiro projeto
+- [ ] Plugins
+- [ ] Props & Component
+- [ ] Class component
+- [ ] States
+- [ ] Componentes
+- [ ] Ciclo de vida
+
+### Aprendendo +
+
+*loading*
