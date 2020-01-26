@@ -16,8 +16,8 @@ Este repositório serve para as atividades realizadas do curso de [React.js](htt
 
 ### ES6+
 
-- [ ] Temporização
-- [ ] Webstorage
+- [x] Temporização
+- [x] Webstorage
 - [ ] Diferença de variaveis
 - [ ] Variavel em strings
 - [ ] Desconstrução
