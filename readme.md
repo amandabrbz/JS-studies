@@ -33,7 +33,7 @@ Este repositório serve para as atividades realizadas do curso de [React.js](htt
 - [x] O que é react
 - [x] Instalação
 - [x] Primeiro projeto
-- [ ] Plugins
+- [x] Plugins
 - [ ] Props & Component
 - [ ] Class component
 - [ ] States
