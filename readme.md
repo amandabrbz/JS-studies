@@ -34,7 +34,7 @@ Este repositório serve para as atividades realizadas do curso de [React.js](htt
 - [x] Instalação
 - [x] Primeiro projeto
 - [x] Plugins
-- [ ] Props & Component
+- [x] Props & Component
 - [ ] Class component
 - [ ] States
 - [ ] Componentes
@@ -42,4 +42,4 @@ Este repositório serve para as atividades realizadas do curso de [React.js](htt
 
 ### Aprendendo +
 
-*loading*
+- [ ] *loading*
