@@ -37,8 +37,8 @@ Este repositório serve para as atividades realizadas do curso de [React.js](htt
 - [x] Props & Component
 - [x] Class component
 - [x] States
-- [ ] Componentes
-- [ ] Ciclo de vida
+- [x] Componentes
+- [x] [Ciclo de vida](https://github.com/amandabrbz/ciclodevida35)
 
 ### Aprendendo +
 
@@ -56,6 +56,4 @@ Este repositório serve para as atividades realizadas do curso de [React.js](htt
 - [ ] [Filmes](#)
 - [ ] [SPA](#)
 
-*loading*
-
-
+## _loading_
