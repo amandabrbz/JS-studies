@@ -35,11 +35,27 @@ Este repositório serve para as atividades realizadas do curso de [React.js](htt
 - [x] Primeiro projeto
 - [x] Plugins
 - [x] Props & Component
-- [ ] Class component
-- [ ] States
+- [x] Class component
+- [x] States
 - [ ] Componentes
 - [ ] Ciclo de vida
 
 ### Aprendendo +
 
-- [ ] *loading*
+- [ ] Eventos
+- [ ] Renderização Condicional
+- [ ] Trabalhando com listas
+- [ ] Manipulando formulários
+- [ ] Praticando formulários
+
+## Projetos do Curso
+
+- [ ] [Biscoito da Sorte](#)
+- [ ] [Cronometro](#)
+- [ ] [ToDo List](#)
+- [ ] [Filmes](#)
+- [ ] [SPA](#)
+
+*loading*
+
+

@@ -16,6 +16,7 @@ Um componente com estados quase sempre vai ser representado, de fato, por uma cl
 
 ```
 import React, { Component } from "react";
+
 class App extends Component {
   render() {
     return(
