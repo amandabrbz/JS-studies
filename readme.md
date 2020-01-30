@@ -42,8 +42,8 @@ Este repositório serve para as atividades realizadas do curso de [React.js](htt
 
 ### Aprendendo +
 
-- [ ] Eventos
-- [ ] Renderização Condicional
+- [x] [Eventos](https://github.com/amandabrbz/eventos37)
+- [x] [Renderização Condicional](https://github.com/amandabrbz/renderizacao38)
 - [ ] Trabalhando com listas
 - [ ] Manipulando formulários
 - [ ] Praticando formulários
