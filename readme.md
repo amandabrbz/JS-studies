@@ -45,12 +45,12 @@ Este repositório serve para as atividades realizadas do curso de [React.js](htt
 - [x] [Eventos](https://github.com/amandabrbz/eventos37)
 - [x] [Renderização Condicional](https://github.com/amandabrbz/renderizacao38)
 - [x] [Trabalhando com listas](https://github.com/amandabrbz/renderizacao38)
-- [x] [Manipulando formulários]((https://github.com/amandabrbz/formularios40))
-- [ ] Praticando formulários
+- [x] [Manipulando formulários](https://github.com/amandabrbz/formularios40)
+- [x] Praticando formulários
 
 ## Projetos do Curso
 
-- [ ] [Biscoito da Sorte](#)
+- [x] [Biscoito da Sorte](https://github.com/amandabrbz/biscoitodasorte)
 - [ ] [Cronometro](#)
 - [ ] [ToDo List](#)
 - [ ] [Filmes](#)
